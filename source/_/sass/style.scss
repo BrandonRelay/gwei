@@ -1,0 +1,11 @@
+@import "../../../node_modules/bulma/bulma";
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+}
