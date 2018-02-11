@@ -1,11 +1,9 @@
 # RR/GWEI
-Initial setup for [gwei.io]() project using [Gulp.js](https://gulp.js) for automation and Bulma as its framework. 
+Initial setup for [gwei.io]() project using [Gulp.js](https://gulp.js) for automation and Bulma as its framework.
 
-:::warning
 ### Requirements
 - Please be sure to have [Node.js](https://nodejs.org/en/) installed before moving forward
 - Install Gulp globally: `$ npm install gulp-cli -g`
-:::
 
 ### Getting Started
 
@@ -24,5 +22,3 @@ source/_/
 |   |– vendor
 |- sass
 ```
-
-
