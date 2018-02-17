@@ -39,7 +39,7 @@ gulp.task('style', function() {
   return gulp.src('source/_/sass/*.scss')
     .pipe(sass({
       'sourcemap=none': true,
-      outputStyle: 'compressed'
+      outputStyle: 'expanded'
     }))
     .pipe(concat('style.css'))
     .pipe(gulp.dest('source/assets/css/'))
